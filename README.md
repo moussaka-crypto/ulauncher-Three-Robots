@@ -11,5 +11,5 @@ My personal theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher)
 
 Or just download repository, unpack, copy to ```~/.config/ulauncher/user-themes``` and rename folder to ```mi-ulauncher (or a name of your choice)```.
 
-Should you wish to make your own theme, here is a link to the official documentation: [link](https://docs.ulauncher.io/en/5.12.2/themes/themes.html)
+Should you wish to make your own theme, here is a link to the official documentation: [link](https://docs.ulauncher.io/en/5.15.3/themes/themes.html)
 (takes like 10-15 min)
