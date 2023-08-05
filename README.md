@@ -1,16 +1,15 @@
-# Gruvbox for Ulauncher
+# MiTheme for ULauncher
 
-A theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher) based on the gruvbox color scheme
+My personal theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher)
 
-https://github.com/morhetz/gruvbox
+### >>>add screenshot later
 
-
-![Screenshot_20210406_164130](https://user-images.githubusercontent.com/33354262/113740797-eef4ab80-96f8-11eb-880f-0d0d8353467d.png)
-
-
-## Installation
+## Installation (write different cases)
 
 1. ```mkdir -p ~/.config/ulauncher/user-themes```
-2. ```git clone https://github.com/SylEleuth/ulauncher-gruvbox ~/.config/ulauncher/user-themes/gruvbox-ulauncher```
+2. ```git clone https://github.com/moussaka-crypto/ulauncher-mitheme ~/.config/ulauncher/user-themes/mitheme```
 
-Or just download repository, unpack, copy to ```~/.config/ulauncher/user-themes``` and rename folder to ```gruvbox-ulauncher```.
+Or just download repository, unpack, copy to ```~/.config/ulauncher/user-themes``` and rename folder to ```mi-ulauncher (or a name of your choice)```.
+
+Should you wish to make your own theme, here is a link to the official documentation: [link](https://docs.ulauncher.io/en/5.15.3/themes/themes.html)
+(takes like 10-15 min)
