@@ -8,7 +8,7 @@ ___
 ![p1](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/4b9799ca-6e5b-4134-a6d9-e0b2dfdfc8c2)
 ___
 ![p2](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/e8179630-eb79-4435-afb6-4914d74a400a)
-___
+
 ## Installation
 #### If it's your first time theming Ulauncher:
 1. ```mkdir -p ~/.config/ulauncher/user-themes/ && cd ~/.config/ulauncher/user-themes/```
@@ -17,6 +17,6 @@ ___
 #### If you have already installed themes for Ulauncher:
 ```git clone https://github.com/moussaka-crypto/ulauncher-Three-Robots ~/.config/ulauncher/user-themes/```
 
-Or just download repository, unpack, copy to ```~/.config/ulauncher/user-themes``` and rename folder to ```three-robots```
+Or just download repository, extract and copy to ```~/.config/ulauncher/user-themes```
 
 [Should you wish to make your own theme...](https://docs.ulauncher.io/en/5.15.3/themes/themes.html)
