@@ -1,13 +1,13 @@
 
 /**
- * Dracula colors
+ * Color scheme
  */
-@define-color background #282828;
-@define-color current_line_background #3C3836;
-@define-color foreground #EBDBB2;
-@define-color foreground_lessimportant #A89984;
-@define-color accent #FE8019;
-@define-color highlight #FE8019;
+@define-color background #1f2025;
+@define-color current_line_background #545d68;
+@define-color foreground #cebba3;
+@define-color foreground_lessimportant #8f979f;
+@define-color accent #e5d08e;
+@define-color highlight #e5d08e;
 
 /**
  * App Window
