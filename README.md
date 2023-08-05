@@ -1,6 +1,8 @@
-# MiTheme for ULauncher
+# Three Robots Theme for ULauncher
 
-My personal theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher)
+My personal theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher), inspired by Love, Death and Robots characters XBOT 4000, K-VRC and 11-45-G.
+
+![love-death-and-robots-rd](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/6dc28ffe-55e9-43a9-bec8-0e3fe747b055)
 
 ### >>>add screenshot later
 
