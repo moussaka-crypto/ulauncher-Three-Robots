@@ -45,6 +45,7 @@
  
  .input {
      color: @input_color;
+     font-family: "Monaco", monospace;
  }
  
  /**
@@ -59,9 +60,11 @@
  
  .item-text {
      color: @item_text;
+     font-family: "Monaco", monospace;
  }
  .item-name {
      color: @item_name;
+     font-family: "Monaco", monospace;
  }
  
  .selected.item-box {
