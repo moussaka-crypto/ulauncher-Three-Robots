@@ -1,4 +1,4 @@
-# Three Robots Theme for ULauncher
+# Three Robots Theme for Ulauncher
 
 A color theme for [Ulauncher](https://ulauncher.io/), inspired by "Love, Death and Robots" characters XBOT 4000, K-VRC and 11-45-G.
 
