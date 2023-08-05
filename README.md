@@ -2,12 +2,11 @@
 
 A color theme for [Ulauncher](https://ulauncher.io/), inspired by "Love, Death and Robots" characters XBOT 4000, K-VRC and 11-45-G.
 
-![love-death-and-robots-rd](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/6dc28ffe-55e9-43a9-bec8-0e3fe747b055)
----
+![image](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/578231a0-38fc-41aa-a66c-fa6239964521)
 ___
-![p1](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/4b9799ca-6e5b-4134-a6d9-e0b2dfdfc8c2)
+![p1](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/785fcd7e-1bda-432c-b6f4-410a655a9351)
 ___
-![p2](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/e8179630-eb79-4435-afb6-4914d74a400a)
+![p2](https://github.com/moussaka-crypto/ulauncher-Three-Robots/assets/64573585/f7b4bee5-88ea-406a-a2e2-cb33f6de53fe)
 
 ## Installation
 #### If it's your first time theming Ulauncher:
