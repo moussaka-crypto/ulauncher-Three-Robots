@@ -10,12 +10,24 @@ ___
 
 ## Installation
 #### If it's your first time theming Ulauncher:
-1. ```mkdir -p ~/.config/ulauncher/user-themes/ && cd ~/.config/ulauncher/user-themes/```
-2. ```git clone https://github.com/moussaka-crypto/ulauncher-Three-Robots```
+1. Make a directory on your Linux device:
+```
+mkdir -p ~/.config/ulauncher/user-themes/ && cd ~/.config/ulauncher/user-themes/
+```
+
+2. Clone this repository:
+```
+git clone https://github.com/moussaka-crypto/ulauncher-Three-Robots
+```
 
 #### If you have already installed themes for Ulauncher:
-```git clone https://github.com/moussaka-crypto/ulauncher-Three-Robots ~/.config/ulauncher/user-themes/```
+```
+git clone https://github.com/moussaka-crypto/ulauncher-Three-Robots ~/.config/ulauncher/user-themes/
+```
 
-Or just download repository, extract and copy to ```~/.config/ulauncher/user-themes```
+OR just download repository, extract and copy to 
+```
+~/.config/ulauncher/user-themes
+```
 
 [Should you wish to make your own theme...](https://docs.ulauncher.io/en/5.15.3/themes/themes.html)
